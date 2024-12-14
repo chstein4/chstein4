@@ -2,6 +2,11 @@
 
 <!--
 **chstein4/chstein4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chstein4)  
+
+
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chstein4&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chstein4&layout=compact&exclude_repo=ME6408)](https://github.com/chstein4/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
